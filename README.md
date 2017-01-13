@@ -6,8 +6,8 @@ xcode8.2.1
 swift3.0
 
 ## イメージ画像
-![ゲーム画面](./sampleimage/1.png)
-![リスタート時](./sampleimage/2.png)
+<img src="./sampleimage/1.png" width="200">
+<img src="./sampleimage/2.png" width="200">
 
 ## 参考
 <https://www.youtube.com/watch?v=D7ntzPFvMf0>
